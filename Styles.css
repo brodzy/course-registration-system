@@ -1,0 +1,9 @@
+﻿body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+    position: fixed;
+    top: 40%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    zoom: 1.8;
+}
